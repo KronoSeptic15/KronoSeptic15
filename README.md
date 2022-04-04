@@ -1,2 +1,1 @@
-#Kronos Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KronoSeptic15&count_private=true)
